@@ -9,7 +9,7 @@ description: 'NEETの日常を淡々と描くもの'
 keywords: "memo"
 author: w4daka
 language: ja
-timezone: 'Asia/Saitama'
+timezone: Asia/Tokyo
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
