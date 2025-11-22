@@ -31,7 +31,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: new_post_name: :year_:month_:day_:title.md # 日付が接頭辞にあると見やすいです（オススメ） 
+new_post_name: :year_:month_:day_:title.md # 日付が接頭辞にあると見やすいです（オススメ） 
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
@@ -103,7 +103,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/octocat/octocat.github.io # 「octocat」（2ヶ所）は、ご自身のアカウントIDに変更してください。
+  repo: https://github.com/w4daka/blog.git # 「octocat」（2ヶ所）は、ご自身のアカウントIDに変更してください。
   branch: gh-pages
   ignore_hidden:
       public: false
