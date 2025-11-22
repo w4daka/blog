@@ -229,30 +229,30 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: w4daka
         # Author title
-        author_title: Your title
+        author_title: w4daka
         # Author's current location
-        location: Your location
+        location: Japan/Saitama
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/Roxy.jpg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/w4daka
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/w4daka
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com
             Twitter:
                 icon: fab fa-twitter
-                url: https://twitter.com
+                url: https://twitter.com/w4d_tter
             Dribbble:
                 icon: fab fa-dribbble
                 url: https://dribbble.com

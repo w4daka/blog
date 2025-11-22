@@ -6,8 +6,8 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
-  },
+    "server": "hexo server --drafts"
+    },
   "hexo": {
     "version": "8.1.1"
   },
@@ -26,4 +26,5 @@
     "hexo-theme-icarus": "^6.1.1",
     "hexo-theme-landscape": "^1.0.0"
   }
+  
 }

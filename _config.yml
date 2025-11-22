@@ -13,7 +13,7 @@ timezone: 'Asia/Saitama'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://w4daka.github.io/
+url: http://w4daka.github.io
 root: /blog/
 permalink: articles/:title
 permalink_defaults: 
