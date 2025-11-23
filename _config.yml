@@ -108,3 +108,10 @@ deploy:
   branch: gh-pages
   ignore_hidden:
       public: false
+
+# Sitemap
+sitemap:
+  path:
+    - sitemap.xml
+  tags: false
+  categories: false
